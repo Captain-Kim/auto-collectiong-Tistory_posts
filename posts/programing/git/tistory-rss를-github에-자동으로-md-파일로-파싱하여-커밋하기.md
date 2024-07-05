@@ -306,13 +306,16 @@ console.error('Failed to fetch and convert RSS feed:', error);
 })();</code></pre></p>
 <h2 data-ke-size="size26">리포지토리 링크</h2>
 <p data-ke-size="size16">리포지토리를 참고해보고 싶으면 위 프로젝트에서 사용한 리포지토리를 참고바람.</p>
-<p data-ke-size="size16"><a href="https://github.com/Captain-Kim/my_Tistory_blog_posts" target="_blank" rel="noopener&nbsp;noreferrer">https://github.com/Captain-Kim/my_Tistory_blog_posts</a></p>
-<figure id="og_1720124349706" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="object" data-og-title="GitHub - Captain-Kim/my_Tistory_blog_posts: 티스토리 블로그 자동 수집" data-og-description="티스토리 블로그 자동 수집. Contribute to Captain-Kim/my_Tistory_blog_posts development by creating an account on GitHub." data-og-host="github.com" data-og-source-url="https://github.com/Captain-Kim/my_Tistory_blog_posts" data-og-url="https://github.com/Captain-Kim/my_Tistory_blog_posts" data-og-image="https://scrap.kakaocdn.net/dn/FNsei/hyWvKMzCle/BhTWjBrOd90BEr8uZAWEek/img.png?width=1200&amp;height=600&amp;face=0_0_1200_600"><a href="https://github.com/Captain-Kim/my_Tistory_blog_posts" target="_blank" rel="noopener" data-source-url="https://github.com/Captain-Kim/my_Tistory_blog_posts">
-<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/FNsei/hyWvKMzCle/BhTWjBrOd90BEr8uZAWEek/img.png?width=1200&amp;height=600&amp;face=0_0_1200_600');">&nbsp;</div>
+<p data-ke-size="size16">주의 : 그냥 클론받거나 포크하면 작동 안 함. 하더라도 안에 있는 코드 수정해야 함.</p>
+<p data-ke-size="size16">(RSS 주소, 계정이름, 이메일 주소)</p>
+<p data-ke-size="size16"><a href="https://github.com/Captain-Kim/auto-collectiong-Tistory_posts" target="_blank" rel="noopener&nbsp;noreferrer">https://github.com/Captain-Kim/auto-collectiong-Tistory_posts</a></p>
+<figure id="og_1720139392425" contenteditable="false" data-ke-type="opengraph" data-ke-align="alignCenter" data-og-type="object" data-og-title="GitHub - Captain-Kim/auto-collectiong-Tistory_posts: 티스토리 블로그 RSS 자동 수집" data-og-description="티스토리 블로그 RSS 자동 수집. Contribute to Captain-Kim/auto-collectiong-Tistory_posts development by creating an account on GitHub." data-og-host="github.com" data-og-source-url="https://github.com/Captain-Kim/auto-collectiong-Tistory_posts" data-og-url="https://github.com/Captain-Kim/auto-collectiong-Tistory_posts" data-og-image="https://scrap.kakaocdn.net/dn/b9tNF1/hyWvO2AaxO/JvFESSNkzp84QhHMlC7K7K/img.png?width=1200&amp;height=600&amp;face=0_0_1200_600"><a href="https://github.com/Captain-Kim/auto-collectiong-Tistory_posts" target="_blank" rel="noopener" data-source-url="https://github.com/Captain-Kim/auto-collectiong-Tistory_posts">
+<div class="og-image" style="background-image: url('https://scrap.kakaocdn.net/dn/b9tNF1/hyWvO2AaxO/JvFESSNkzp84QhHMlC7K7K/img.png?width=1200&amp;height=600&amp;face=0_0_1200_600');">&nbsp;</div>
 <div class="og-text">
-<p class="og-title" data-ke-size="size16">GitHub - Captain-Kim/my_Tistory_blog_posts: 티스토리 블로그 자동 수집</p>
-<p class="og-desc" data-ke-size="size16">티스토리 블로그 자동 수집. Contribute to Captain-Kim/my_Tistory_blog_posts development by creating an account on GitHub.</p>
+<p class="og-title" data-ke-size="size16">GitHub - Captain-Kim/auto-collectiong-Tistory_posts: 티스토리 블로그 RSS 자동 수집</p>
+<p class="og-desc" data-ke-size="size16">티스토리 블로그 RSS 자동 수집. Contribute to Captain-Kim/auto-collectiong-Tistory_posts development by creating an account on GitHub.</p>
 <p class="og-host" data-ke-size="size16">github.com</p>
 </div>
 </a></figure>
+<p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">&nbsp;</p>
