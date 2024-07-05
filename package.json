@@ -1,0 +1,16 @@
+{
+    "name": "tistory-rss-to-md",
+    "version": "1.0.0",
+    "description": "Convert Tistory RSS feed to markdown files",
+    "main": "index.js",
+    "scripts": {
+      "start": "node index.js"
+    },
+    "dependencies": {
+      "axios": "^0.21.1",
+      "markdown-it": "^12.0.6",
+      "slugify": "^1.6.6",
+      "xml2js": "^0.4.23"
+    }
+  }
+  
