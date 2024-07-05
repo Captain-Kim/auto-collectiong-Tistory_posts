@@ -98,7 +98,7 @@ age: number,
 <p>interface Teacher extends Student {
 name: number;
 } // 에러</code></pre></p>
-<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-origin-width="2888" data-origin-height="628"><span data-url="https://blog.kakaocdn.net/dn/uqoaP/btsH93OQ9wH/7pw0njYDJ8fn0UQyg9qaY1/img.png" data-phocus="phocus"><img src="https://blog.kakaocdn.net/dn/uqoaP/btsH93OQ9wH/7pw0njYDJ8fn0UQyg9qaY1/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuqoaP%2FbtsH93OQ9wH%2F7pw0njYDJ8fn0UQyg9qaY1%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-origin-width="2888" data-origin-height="628"/></span></figure>
+<p><figure class="imageblock alignCenter" data-ke-mobileStyle="widthOrigin" data-origin-width="2888" data-origin-height="628"><span data-url="https://blog.kakaocdn.net/dn/uqoaP/btsH93OQ9wH/7pw0njYDJ8fn0UQyg9qaY1/img.png" data-phocus="https://blog.kakaocdn.net/dn/uqoaP/btsH93OQ9wH/7pw0njYDJ8fn0UQyg9qaY1/img.png"><img src="https://blog.kakaocdn.net/dn/uqoaP/btsH93OQ9wH/7pw0njYDJ8fn0UQyg9qaY1/img.png" srcset="https://img1.daumcdn.net/thumb/R1280x0/?scode=mtistory2&fname=https%3A%2F%2Fblog.kakaocdn.net%2Fdn%2FuqoaP%2FbtsH93OQ9wH%2F7pw0njYDJ8fn0UQyg9qaY1%2Fimg.png" onerror="this.onerror=null; this.src='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png'; this.srcset='//t1.daumcdn.net/tistory_admin/static/images/no-image-v1.png';" data-origin-width="2888" data-origin-height="628"/></span></figure>
 </p>
 <p data-ke-size="size16">&nbsp;</p>
 <p data-ke-size="size16">&nbsp;</p>
