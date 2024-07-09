@@ -19,7 +19,7 @@
 <p data-ke-size="size16">이 글 작성 시점과 게시글을 확인하는 시점에서 코드의 버전이 달라지면 에러가 발생할 수 있으니 공식 문서를 참고바람.</p>
 <h2 data-ke-size="size26">방법</h2>
 <h3 data-ke-size="size23">supabase CLI 패키지 설치</h3>
-<pre id="code_1720450192789" class="typescript" data-ke-language="typescript" data-ke-type="codeblock"><code>yarn i supabase@"&gt;=1.8.1" --save-dev</code></pre>
+<pre id="code_1720450192789" class="typescript" data-ke-language="typescript" data-ke-type="codeblock"><code>yarn add supabase@"&gt;=1.8.1" --save-dev</code></pre>
 <h3 data-ke-size="size23">토큰 발급받고 로그인하기</h3>
 <pre id="code_1720450228101" class="typescript" data-ke-language="typescript" data-ke-type="codeblock"><code>npx supabase login</code></pre>
 <ul style="list-style-type: disc;" data-ke-list-type="disc">
