@@ -1,0 +1,11 @@
+<p data-ke-size="size16">Next.js에서 CSR(Client-Side Rendering)과 SSR(Server-Side Rendering)의 차이는 단순히 서버에서 페이지를 렌더링 하느냐, 클라이언트 측(웹 브라우저)에서 렌더링 하느냐의 차이로 정의됩니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">단순히 어느 것이 속도가 더 빠르냐의 문제가 아니라 여러 가지 살펴봐야 할 문제가 있습니다. 예를 들어:</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16"><span><span> </span>1.<span> </span></span><b>SEO</b>: SSR은 검색 엔진 최적화에 더 유리합니다. 검색 엔진 크롤러는 서버에서 렌더링된 HTML을 쉽게 인덱싱할 수 있기 때문입니다. 반면 CSR은 자바스크립트를 실행해야만 콘텐츠를 볼 수 있기 때문에 검색 엔진 크롤러가 콘텐츠를 인덱싱하는 데 어려움을 겪을 수 있습니다.</p>
+<p data-ke-size="size16"><span><span> </span>2.<span> </span></span><b>초기 로딩 시간</b>: SSR은 서버에서 미리 렌더링된 HTML을 클라이언트에 제공하기 때문에 초기 로딩 시간이 빠릅니다. 반면 CSR은 클라이언트에서 자바스크립트 파일을 다운로드하고 실행해야 하기 때문에 초기 로딩 시간이 더 길어질 수 있습니다.</p>
+<p data-ke-size="size16"><span><span> </span>3.<span> </span></span><b>사용자 경험</b>: SSR은 초기 페이지 로드 시 사용자에게 완전한 HTML 페이지를 제공하므로 사용자는 빠르게 콘텐츠를 볼 수 있습니다. 반면 CSR은 자바스크립트가 실행된 후에야 콘텐츠를 볼 수 있어 초기 페이지 로드 시 약간의 지연이 발생할 수 있습니다.</p>
+<p data-ke-size="size16"><span><span> </span>4.<span> </span></span><b>개발 복잡성</b>: CSR은 클라이언트에서 모든 렌더링을 처리하므로 서버 측 코드를 단순화할 수 있습니다. 반면 SSR은 서버와 클라이언트 모두에서 렌더링 로직을 관리해야 하기 때문에 복잡성이 증가할 수 있습니다.</p>
+<p data-ke-size="size16"><span><span> </span>5.<span> </span></span><b>데이터 페칭</b>: CSR에서는 클라이언트 측에서 API 호출을 통해 데이터를 가져오고 이를 렌더링합니다. SSR에서는 서버 측에서 데이터를 가져와서 렌더링한 후 클라이언트에 전달합니다. 따라서 데이터 페칭 로직이 어디에서 수행되는지에 따라 성능과 복잡성이 달라질 수 있습니다.</p>
+<p data-ke-size="size16">&nbsp;</p>
+<p data-ke-size="size16">이와 같은 여러 가지 요소를 고려하여 CSR과 SSR 중 어느 방식을 선택할지 결정해야 합니다. 각각의 방식은 장단점이 있으며, 특정 상황에 따라 더 적합한 방법을 선택하는 것이 중요합니다.</p>
