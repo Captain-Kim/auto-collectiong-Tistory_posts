@@ -1,0 +1,5 @@
+<p data-ke-size="size16">&nbsp;</p>
+<figure data-ke-type="video" data-ke-style="alignCenter" data-video-host="kakaotv" data-video-url="https://tv.kakao.com/v/449052233" data-video-thumbnail="https://scrap.kakaocdn.net/dn/gHe5E/hyWVU8ng0p/9mmtuMJX8A7j3xcTdZrhY1/img.jpg?width=1920&amp;height=1080&amp;face=0_0_1920_1080,https://scrap.kakaocdn.net/dn/oobxG/hyWSlT4cEx/kKvvJC9XuoT5Z7FDr1yE0k/img.jpg?width=1920&amp;height=1080&amp;face=0_0_1920_1080" data-video-width="860" data-video-height="484" data-video-origin-width="860" data-video-origin-height="484" data-ke-mobilestyle="widthContent" data-video-title="'삶이란 무엇인가'에서 업로드한 동영상" data-video-play-service="daum_tistory" data-original-url=""><iframe src="https://play-tv.kakao.com/embed/player/cliplink/449052233?service=daum_tistory" width="860" height="484" frameborder="0" allowfullscreen="true"></iframe>
+<figcaption style="display: none;"></figcaption>
+</figure>
+<p data-ke-size="size16">&nbsp;</p>
